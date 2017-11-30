@@ -1,0 +1,126 @@
+
+
+h1{
+  float:left;
+  position:absolute;
+  padding:17px;
+  top:-10px;
+  background:#4aaaa5;
+  text-align:center;
+  color:#ffffff;
+
+}
+
+.top-buffer {
+  margin-top:50px;
+}
+
+.left-buffer {
+  margin-left:-50px;
+}
+
+.footer {
+  padding-top:30px;
+  background-color:#666666;
+  overflow:hidden;
+  border-top: solid #4aaaa5;
+  border-width:thick;
+  margin:0 auto;
+  margin-top:25px;
+
+}
+
+.line {
+  line-height:60px;
+
+}
+
+#right-side{
+  float:left;
+  margin-right: 90px;
+
+}
+
+
+#right-side li{
+  margin-top: -25px;
+  color:#777777;
+  color:blue;
+  margin-bottom:50px;
+}
+
+#left-side{
+  float:left;
+  margin-left: -35px;
+}
+
+#left-side li{
+  margin-top:-19px;
+  color:#777777;
+  color:blue;
+  margin-bottom:52px;
+
+}
+
+ul li{
+  list-style-type:none;
+}
+
+#center-nav li{
+
+  display:inline-block;
+  margin-left: -15px;
+  color:#777777;
+}
+
+
+h4{
+  position:relative;
+  padding:1px;
+  margin-left:-18px;
+  margin-top:-25px;
+  top:22px;
+  background:#4aaaa5;
+  text-align:center;
+  color:#ffffff;
+}
+
+h5{
+  margin-right:537px;
+  margin-left:-4px;
+  margin-top:40px;
+  top:-12px;
+  background:#4aaaa5;
+  text-align:left;
+  color:#ffffff;
+
+}
+
+h3{
+    color:#4aaaa5;
+    border-bottom: solid #dddddd;
+}
+
+h2{
+  text-align:left;
+  color:#4aaaa5;
+}
+
+
+@media only screen  and (max-width:980px) { body {
+  background-color: #ffffff;
+}
+
+}
+
+@media only screen  and (max-width:768px) { body {
+  background-color: #ffffff;
+}
+
+}
+
+@media only screen  and (max-width:640px) { body {
+  background-color: #ffffff;
+}
+
+}
